@@ -2,13 +2,13 @@
   "response": [
     {
       "datetime": 1684124852,
-      "size": 1986810707,
-      "filehash": "efe7fb2f62eb53419d5ec485796e9e6f",
-      "filename": "awaken-3.7-triton_void-surya-official-1440-20230515.zip",
-      "id": "5225f6788156f2a131723da8d72a51bbe4004c1fbc958f52cb4aa250451efc19",
+      "size": 1986811935,
+      "filehash": "155f951a5b915dcf31130c40bd41b46b",
+      "filename": "awaken-3.7-triton_void-surya-official-1532-20230515.zip",
+      "id": "6db7c4cd269fb750e04fe7454ca2c741f247940690b542d535b73f43b090464f",
       "romtype": "official",
       "version": "3.7",
-      "url": "https://sourceforge.net/projects/titties/files/surya/awaken-3.7-triton_void-surya-official-1440-20230515.zip/download"
+      "url": "https://sourceforge.net/projects/titties/files/surya/awaken-3.7-triton_void-surya-official-1532-20230515.zip/download"
     }
   ]
 }

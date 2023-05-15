@@ -1,16 +1,5 @@
 ===============
 15-05-2023
 ===============
-Source Changelog:
-• Add support for unlinked ring and notification streams in Volume Dialog
-• Introduced power off alarm service
-• Update pocket mode style to latest OOS
-• Fixed an issue where power button doesn't works on ambient display when quick torch is on
-
 Device Changelog:
-• fixed telegram, Instagram camera freeze bug 
-• Update blobs to V14.0.4.0.SJGEUXM
-• improve haptic level adjustment UI 
-• Upstream the kernel to 4.14.314 and merged latest CLO tags
-• switch to full IWLAN mode 
-• Disable combined QS header
+• Added Saturated Color Mode
